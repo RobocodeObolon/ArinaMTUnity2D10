@@ -108,10 +108,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_0
       rect:
         serializedVersion: 2
-        x: 129
-        y: 208
-        width: 30
-        height: 45
+        x: 0
+        y: 416
+        width: 33
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -843,13 +843,13 @@ TextureImporter:
       name: InteriorTilesLITE(1)_35
       rect:
         serializedVersion: 2
-        x: 454
-        y: 161
-        width: 57
-        height: 31
+        x: 440
+        y: 65
+        width: 71
+        height: 127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 31, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1179,10 +1179,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_51
       rect:
         serializedVersion: 2
-        x: 224
+        x: 256
         y: 32
-        width: 96
-        height: 64
+        width: 64
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1263,10 +1263,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_55
       rect:
         serializedVersion: 2
-        x: 94
-        y: 206
-        width: 35
-        height: 37
+        x: 220
+        y: 32
+        width: 36
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1274,7 +1274,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6db73c772f74044198216713d746c9d
+      spriteID: d27ab03cc74313e42b2e079c15c4d1ec
       internalID: 1551801160
       vertices: []
       indices: 
@@ -1284,10 +1284,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_56
       rect:
         serializedVersion: 2
-        x: 125
-        y: 256
-        width: 67
-        height: 22
+        x: 0
+        y: 385
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1295,8 +1295,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 985b4c6ce5d3069478e3b66512b9bd0b
-      internalID: -289666775
+      spriteID: bd47b4aa1025ac04690f107ad4522c41
+      internalID: 743122973
       vertices: []
       indices: 
       edges: []
@@ -1305,10 +1305,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_57
       rect:
         serializedVersion: 2
-        x: 0
-        y: 352
-        width: 32
-        height: 32
+        x: 1
+        y: 353
+        width: 33
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1316,8 +1316,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 435c502e9ddb4274ba980f4431b4b515
-      internalID: 2085527513
+      spriteID: 0b935802144c27845aa390739114dd9d
+      internalID: 1780399841
       vertices: []
       indices: 
       edges: []
@@ -1326,10 +1326,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_58
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
-        width: 32
-        height: 32
+        x: 32
+        y: 232
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1337,8 +1337,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0e3cb9d79bef8a47be41413a5f115d9
-      internalID: -706484979
+      spriteID: 8936ce3846ae2754c99ea32f22ebc519
+      internalID: -1304618286
       vertices: []
       indices: 
       edges: []
@@ -1347,10 +1347,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_59
       rect:
         serializedVersion: 2
-        x: 0
-        y: 416
-        width: 32
-        height: 32
+        x: 93
+        y: 207
+        width: 36
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1358,8 +1358,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7df362f7a4159d47a6db962bc7070fd
-      internalID: 827661027
+      spriteID: ca4b8c8743f15cb4596bd64ca43dc8f1
+      internalID: 1972417939
       vertices: []
       indices: 
       edges: []
@@ -1368,10 +1368,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_60
       rect:
         serializedVersion: 2
-        x: 98
-        y: 324
-        width: 28
-        height: 26
+        x: 1
+        y: 258
+        width: 29
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1379,8 +1379,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e9cfdd5196517c4182c7e61c12741e9
-      internalID: 727701520
+      spriteID: d376f5d8e46f6744c817e1e8ea40e1ba
+      internalID: 1987409813
       vertices: []
       indices: 
       edges: []
@@ -1389,10 +1389,10 @@ TextureImporter:
       name: InteriorTilesLITE(1)_61
       rect:
         serializedVersion: 2
-        x: 96
-        y: 367
-        width: 41
-        height: 32
+        x: 129
+        y: 206
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1400,8 +1400,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c07550afdfdafa4da11d1d2947975e4
-      internalID: 163507640
+      spriteID: 221d1763a62990b4b9512b02a1910f80
+      internalID: -1695251435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE(1)_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 361
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcc15e1025f4c44c9bc005539a31a1d
+      internalID: 1894826910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE(1)_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 310
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff64ace55faa024ca762e764fe74ebf
+      internalID: -1504048766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE(1)_64
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 310
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9f5d91f836a043b2afc10cba1e895
+      internalID: 167757362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE(1)_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 256
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d10eeeecf042140aff1b1a6d7f1eae
+      internalID: 719436334
       vertices: []
       indices: 
       edges: []
@@ -1469,13 +1553,17 @@ TextureImporter:
       InteriorTilesLITE(1)_53: 688911402
       InteriorTilesLITE(1)_54: 1168022040
       InteriorTilesLITE(1)_55: 1551801160
-      InteriorTilesLITE(1)_56: -289666775
-      InteriorTilesLITE(1)_57: 2085527513
-      InteriorTilesLITE(1)_58: -706484979
-      InteriorTilesLITE(1)_59: 827661027
+      InteriorTilesLITE(1)_56: 743122973
+      InteriorTilesLITE(1)_57: 1780399841
+      InteriorTilesLITE(1)_58: -1304618286
+      InteriorTilesLITE(1)_59: 1972417939
       InteriorTilesLITE(1)_6: -1767965818
-      InteriorTilesLITE(1)_60: 727701520
-      InteriorTilesLITE(1)_61: 163507640
+      InteriorTilesLITE(1)_60: 1987409813
+      InteriorTilesLITE(1)_61: -1695251435
+      InteriorTilesLITE(1)_62: 1894826910
+      InteriorTilesLITE(1)_63: -1504048766
+      InteriorTilesLITE(1)_64: 167757362
+      InteriorTilesLITE(1)_65: 719436334
       InteriorTilesLITE(1)_7: 924149753
       InteriorTilesLITE(1)_8: -218886720
       InteriorTilesLITE(1)_9: 1587542071
