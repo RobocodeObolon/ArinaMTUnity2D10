@@ -37,4 +37,9 @@ public class Player : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
     }
+    public void Die()
+    {
+
+        Destroy(gameObject);
+    }
 }
