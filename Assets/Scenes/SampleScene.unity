@@ -1452,7 +1452,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 19927449}
-  speed: 5
+  speed: 4
 --- !u!50 &231633340
 Rigidbody2D:
   serializedVersion: 4
@@ -3195,6 +3195,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81befebb92b7abb4dbbc94195ebce594, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  target: {fileID: 0}
+  offset: {x: 0, y: 0, z: 0}
+  smoothSpeed: 0.125
 --- !u!1 &544667244
 GameObject:
   m_ObjectHideFlags: 0
@@ -4872,7 +4875,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 19927449}
-  speed: 5
+  speed: 4
 --- !u!50 &1074287080
 Rigidbody2D:
   serializedVersion: 4
@@ -12139,7 +12142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 19927449}
-  speed: 5
+  speed: 4
 --- !u!50 &2020918501
 Rigidbody2D:
   serializedVersion: 4
